@@ -1,0 +1,8 @@
+02.03.2020^21:04:51^192.168.0.117^No SNMP response received before timeout00[]
+02.03.2020^21:04:51^192.168.0.117^No SNMP response received before timeout00[]
+02.03.2020^21:04:51^192.168.0.117^No SNMP response received before timeout00[]
+02.03.2020^21:04:51^192.168.0.117^No SNMP response received before timeout00[]
+02.03.2020^21:04:51^192.168.0.117^No SNMP response received before timeout00[]
+02.03.2020^21:04:51^192.168.0.117^No SNMP response received before timeout00[]
+02.03.2020^21:04:51^192.168.0.117^No SNMP response received before timeout00[]
+02.03.2020^21:04:51^192.168.0.117^No SNMP response received before timeout00[]

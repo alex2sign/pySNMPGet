@@ -72,8 +72,11 @@ for ip in ip_nabor.keys():
                 i = i + 1
         else:
             # print(res)
+            str2 = ''
+            for numFor in range(0, len(res)):
+                str2 = str2 + str(res[numFor])
             f.write(now_date_time.strftime("%m.%d.%Y") + '^' + \
                     now_date_time.strftime("%H:%M:%S") + '^' + \
-                    ip + '^' + 'get' + '\n')
+                    ip + '^' + str2 + '\n')
 
 f.close()
